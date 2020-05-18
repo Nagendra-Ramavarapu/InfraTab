@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/.github.io/InfraTab/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/.github.io/InfraTab/static/js/main.3b5cb56e.chunk.js",
-    "main.js.map": "/.github.io/InfraTab/static/js/main.3b5cb56e.chunk.js.map",
-    "runtime-main.js": "/.github.io/InfraTab/static/js/runtime-main.be3ca0eb.js",
-    "runtime-main.js.map": "/.github.io/InfraTab/static/js/runtime-main.be3ca0eb.js.map",
-    "static/js/2.7e437bea.chunk.js": "/.github.io/InfraTab/static/js/2.7e437bea.chunk.js",
-    "static/js/2.7e437bea.chunk.js.map": "/.github.io/InfraTab/static/js/2.7e437bea.chunk.js.map",
-    "index.html": "/.github.io/InfraTab/index.html",
-    "precache-manifest.c009f29df1bcfcc5f86ddce7c4bf1f9c.js": "/.github.io/InfraTab/precache-manifest.c009f29df1bcfcc5f86ddce7c4bf1f9c.js",
-    "service-worker.js": "/.github.io/InfraTab/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/.github.io/InfraTab/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.7e437bea.chunk.js.LICENSE.txt": "/.github.io/InfraTab/static/js/2.7e437bea.chunk.js.LICENSE.txt"
+    "main.css": "/InfraTab/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/InfraTab/static/js/main.f4d17cc3.chunk.js",
+    "main.js.map": "/InfraTab/static/js/main.f4d17cc3.chunk.js.map",
+    "runtime-main.js": "/InfraTab/static/js/runtime-main.b798cdcf.js",
+    "runtime-main.js.map": "/InfraTab/static/js/runtime-main.b798cdcf.js.map",
+    "static/js/2.7e437bea.chunk.js": "/InfraTab/static/js/2.7e437bea.chunk.js",
+    "static/js/2.7e437bea.chunk.js.map": "/InfraTab/static/js/2.7e437bea.chunk.js.map",
+    "index.html": "/InfraTab/index.html",
+    "precache-manifest.e8a952aa134993c61e088533af61f024.js": "/InfraTab/precache-manifest.e8a952aa134993c61e088533af61f024.js",
+    "service-worker.js": "/InfraTab/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/InfraTab/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7e437bea.chunk.js.LICENSE.txt": "/InfraTab/static/js/2.7e437bea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.be3ca0eb.js",
+    "static/js/runtime-main.b798cdcf.js",
     "static/js/2.7e437bea.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.3b5cb56e.chunk.js"
+    "static/js/main.f4d17cc3.chunk.js"
   ]
 }
